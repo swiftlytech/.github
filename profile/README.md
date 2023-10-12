@@ -1,3 +1,3 @@
-# Swiftly Open Source
+# Swiftly
 
-Swiftly Team alojará aquí pronto variedad de proyectos de código abierto.
+Swiftly alojará aquí variedad de proyectos de código abierto más adelante.
